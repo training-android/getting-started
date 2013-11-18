@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">Getting Started</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 
 </resources>
